@@ -31,3 +31,11 @@ Foram realizadas 3 reuniões com o cliente para:
 
 #### Observações:
 - Devido a natureza dos dados (reais) os insights fornecidos ao cliente não serão divulgados.
+- As cores utilizadas no dashboard foram esolhidas com base nas cores da marca da cliente (branding / identidade de marca)
+
+### Relatório - Google Data Studio
+
+![image](https://user-images.githubusercontent.com/97234061/181019728-63128d7a-d6ef-4e72-8156-6fb3d5323811.png)
+![image](https://user-images.githubusercontent.com/97234061/181020013-7fc81973-426e-4cac-8754-bd74a490ff9d.png)
+![image](https://user-images.githubusercontent.com/97234061/181020080-d544c49d-1cfa-4e98-a68f-526e0becf027.png)
+![image](https://user-images.githubusercontent.com/97234061/181020205-8b83c5a2-1816-4366-ab65-20bfbb875fc7.png)
